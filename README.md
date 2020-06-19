@@ -25,5 +25,9 @@ Example: ```1IHQNq9QT8FCGOniUph87z6ZxHLiM1pL0```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Credits
+- [Using ContinuationToken with recursive fodler iterator from Senseful](https://stackoverflow.com/questions/45689629/google-apps-script-how-to-use-continuationtoken-with-recursive-folder-iterator)
+- [Google Sheet adapted from Shunmugha Sundaram](http://techawakening.org/?p=2846)
+
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
