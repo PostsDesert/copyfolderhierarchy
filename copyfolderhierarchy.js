@@ -5,13 +5,13 @@ Copy Folder Hierarchy and Contents for Google Drive
 
 For instructions, bug reporting, and questions go to http://techawakening.org/?p=2846
 
-Written by Griffith Baker - June 19, 2020
+Written by Griffith Baker and Shunmugha Sundaram - June 19, 2020
 
 ~~~~~~~~~
 Credits:
 ~~~~~~~~~
 
-Using ContinuationToken with recursive fodler iterator from Senseful
+Using ContinuationToken with recursive folder iterator from Senseful
 https://stackoverflow.com/questions/45689629/google-apps-script-how-to-use-continuationtoken-with-recursive-folder-iterator
 
 Google Sheet adapted from Shunmugha Sundaram 
